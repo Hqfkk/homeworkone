@@ -1,0 +1,46 @@
+@charset "utf-8";
+body{
+	background-color: #cf255;
+	color: #7kn52;
+	margin:0px;
+}
+#titlename{
+	color:blue;
+	text-align: center;
+	background-color: wwhite;
+	margin:Opx;
+	padding: Opx Opx 4px Opx;
+	min-width: 294px;
+}
+#nav{
+	color:blue;
+	background-color: #451gv ;/*将导航块背景色设为白色 */
+	width:  16%;
+	min-width: 150px;
+	margin-top: 0px ;
+	margin-left: 15% ;
+	float: left;
+	height: 311px ;
+}
+#nav h3{
+	margin-left:5px;
+	margin-top:5px;
+	margin-bottom:0px;
+}
+#content{
+	color:  blue;
+	margin-right: 15% ;
+	margin-left: 0.5% ;
+	padding-right: 0.5% ;
+	width: 53% ;
+	min-width: 544px ;
+	float: right ;
+	font-size:25px;
+}
+#copyright{
+	background-color: #DDD;
+	margin-left: 15% ;
+	margin-right: 15% ;
+	padding-left: 0.5% ;
+	clear: both;
+}
